@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "react-odev1",
+  "version": "1.0.0",
+  "main": "odev.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mazahir94/react-Odev1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mazahir94/react-Odev1/issues"
+  },
+  "homepage": "https://github.com/Mazahir94/react-Odev1#readme",
+  "description": "",
+  "type": "module"
+}
